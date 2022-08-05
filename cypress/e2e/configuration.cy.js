@@ -25,8 +25,7 @@ var CLASS_CSS = {
   ORDER_PRICE : ".lc-cart__prices-number > .formatted-price",
   CHECKOUT_PAGE_TITLE : ".content__title",
   DELETE_FROM_CART_ICON : ".lc-cart__item-delete",
-  DELETE_FROM_CART_TEXT : "button[class ='lc-cart__item-delete']",
-  
+  DELETE_FROM_CART_TEXT : "button[class ='lc-cart__item-delete']",  
   CONFIRMATION_ALERT : ".custom-ui > :nth-child(2)"
 
   
